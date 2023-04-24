@@ -1,0 +1,39 @@
+.warp {}
+
+.header {
+    background-color: #c9c9c9;
+}
+
+.header .inner {
+    height: 100px;
+    width: 1040px;
+    background-color: #d9d9d9;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+.contents {
+    background-color: #f0f0f0;
+    width: 1040px;
+    height: 624px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.footer {
+    background-color: #c9c9c9;
+}
+
+.footer .inner {
+    height: 300px;
+    width: 1040px;
+    background-color: #d9d9d9;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+}

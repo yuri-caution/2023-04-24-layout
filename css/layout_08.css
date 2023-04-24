@@ -1,0 +1,48 @@
+.warp {}
+
+.header {
+    background-color: #e8e8e8;
+}
+
+.header .logo {
+    height: 100px;
+    background-color: #c9c9c9;
+    text-align: center;
+    line-height: 100px;
+}
+
+.gnb_container {
+}
+
+.gnb_container .gnb {
+    height: 80px;
+    width: 1040px;
+    margin: 0 auto;
+    background-color: #d9d9d9;
+    text-align: center;
+    line-height: 80px;
+}
+
+.contents {
+    width: 1040px;
+    height: 544px;
+    margin: 0 auto;
+    background-color: #f0f0f0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.footer_container {
+    background-color: #d9d9d9;
+}
+
+.footer_container .footer {
+    height: 300px;
+    width: 1040px;
+    margin: 0 auto;
+    background-color: #e8e8e8;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

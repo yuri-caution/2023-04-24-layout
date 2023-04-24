@@ -1,0 +1,27 @@
+.warp {}
+
+.header{
+    height: 100px;
+    background-color: #d9d9d9;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.contents {
+    background-color: #f0f0f0;
+    width: 1040px;
+    height: 624px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.footer {
+    height: 300px;
+    background-color: #d9d9d9;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

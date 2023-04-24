@@ -1,0 +1,89 @@
+body {
+    background-color: #fff;
+    font-size: 14px;
+    color: #222;
+    line-height: 1.5;
+}
+
+.btn {
+    display: block;
+    width: 70px;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+    background-color: #B28C68;
+    border: 1px solid #B28C68;
+    border-radius: 30px;
+    font-size: 11px;
+    color: #fff;
+}
+
+.btn.line {
+    background-color: transparent;
+    color: #B28C68;
+}
+
+.warp {}
+
+.header {
+    background-color: #222;
+}
+
+.header .inner {
+    width: 1040px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.header .inner .gnb {
+    display: flex;
+    color: #fff;
+    gap: 20px;
+}
+
+.header .inner .gnb li a {
+    display: block;
+    height: 100px;
+    line-height: 100px;
+    padding: 0 20px;
+    /* background-color: red; */
+}
+
+.header .inner .gnb li a:hover {
+    color: #B28C68;
+}
+
+.header .inner .btns {
+    color: #fff;
+    display: flex;
+    gap: 20px;
+}
+
+.header .inner .btns a {
+    display: block;
+    padding: ;
+}
+
+
+
+
+
+
+
+
+
+.footer {
+    background-color: #c9c9c9;
+}
+
+.footer .inner {
+    height: 300px;
+    width: 1040px;
+    background-color: #d9d9d9;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+}
